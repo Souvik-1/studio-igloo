@@ -1,0 +1,9 @@
+{
+  "smoothScroll": true,
+  "parallax": true,
+  "textReveal": true,
+  "imageReveal": true,
+  "cursorEffects": true,
+  "hoverEffects": true,
+  "animationIntensity": 0.7
+}

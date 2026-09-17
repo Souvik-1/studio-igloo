@@ -1,0 +1,40 @@
+{
+  "enabled": true,
+  "retentionDays": 3,
+  "duplicateWindowDays": 3,
+  "maxStoredContacts": 30,
+  "services": [
+    "Wedding & Ceremony",
+    "Portrait & Editorial",
+    "Couple & Engagement",
+    "Birthday & Celebration",
+    "Anniversary",
+    "Family & Lifestyle",
+    "Commercial & Studio",
+    "Other Special Event"
+  ],
+  "messages": {
+    "success": "Thank you. Your enquiry has been received. We will get back to you shortly.",
+    "duplicate": "You have already sent us an enquiry recently. We'll get back to you soon!",
+    "validationError": "Please check the highlighted fields and correct any errors.",
+    "serverError": "We couldn't send your enquiry right now. Please try again or contact us directly.",
+    "honeypotTriggered": "Form submission failed. Please try again."
+  },
+  "limits": {
+    "nameMax": 100,
+    "emailMax": 254,
+    "phoneMax": 40,
+    "serviceMax": 100,
+    "dateMax": 50,
+    "messageMax": 3000
+  },
+  "turnstile": {
+    "enabled": true,
+    "siteKey": "0x4AAAAAAAx_1234567890"
+  },
+  "rateLimit": {
+    "enabled": true,
+    "windowSeconds": 3600,
+    "maxRequestsPerWindow": 10
+  }
+}

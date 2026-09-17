@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "background": "#FAF8F5",
+    "surface": "#FFFFFF",
+    "textPrimary": "#1C1C1C",
+    "textSecondary": "#6B6862",
+    "textMuted": "#99958E",
+    "border": "#EAE6E1",
+    "accent": "#2B3A42",
+    "accentHover": "#1A252B",
+    "overlay": "rgba(28, 28, 28, 0.4)"
+  },
+  "typography": {
+    "serifFont": "Cormorant Garamond, serif",
+    "sansFont": "Inter, sans-serif"
+  },
+  "layout": {
+    "maxWidth": "1280px",
+    "borderRadius": "0px",
+    "imageRadius": "2px"
+  }
+}

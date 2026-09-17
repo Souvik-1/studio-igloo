@@ -1,0 +1,866 @@
+{
+  "categories": [
+    "Wedding",
+    "Birthday",
+    "Anniversary",
+    "Couple",
+    "Portrait",
+    "Family",
+    "Events",
+    "Nature",
+    "Behind the Scenes",
+    "Studio"
+  ],
+  "photos": [
+    {
+      "id": "wedding-001",
+      "category": "Wedding",
+      "src": "/images/weddings/wedding-001.webp",
+      "thumbnail": "/images/weddings/thumb-wedding-001.webp",
+      "alt": "Bride and groom sharing a quiet moment outdoors after ceremony",
+      "featured": true,
+      "order": 1,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Nataniel Egosi",
+        "sourcePage": "https://unsplash.com/photos/1519741497674-611481863552",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "wedding-002",
+      "category": "Wedding",
+      "src": "/images/weddings/wedding-002.webp",
+      "thumbnail": "/images/weddings/thumb-wedding-002.webp",
+      "alt": "Elegant wedding table arrangement with warm candlelight",
+      "featured": true,
+      "order": 2,
+      "width": 1600,
+      "height": 2400,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Sandy Millar",
+        "sourcePage": "https://unsplash.com/photos/1583939003579-730e3918a45a",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "wedding-003",
+      "category": "Wedding",
+      "src": "/images/weddings/wedding-003.webp",
+      "thumbnail": "/images/weddings/thumb-wedding-003.webp",
+      "alt": "Bride holding a delicate bouquet of white roses and eucalyptus",
+      "featured": false,
+      "order": 3,
+      "width": 1600,
+      "height": 1068,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Alvin Mahmudov",
+        "sourcePage": "https://unsplash.com/photos/1511285560929-80b456fea0bc",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "wedding-004",
+      "category": "Wedding",
+      "src": "/images/weddings/wedding-004.webp",
+      "thumbnail": "/images/weddings/thumb-wedding-004.webp",
+      "alt": "Couple dancing under golden evening string lights",
+      "featured": true,
+      "order": 4,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Jeremy Wong",
+        "sourcePage": "https://unsplash.com/photos/1520854221256-17451cc331bf",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "wedding-005",
+      "category": "Wedding",
+      "src": "/images/weddings/wedding-005.webp",
+      "thumbnail": "/images/weddings/thumb-wedding-005.webp",
+      "alt": "Bride walking down the aisle in soft natural sunlight",
+      "featured": false,
+      "order": 5,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Olivia Snow",
+        "sourcePage": "https://unsplash.com/photos/1465495976277-4387d4b0b4c6",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "wedding-006",
+      "category": "Wedding",
+      "src": "/images/weddings/wedding-006.webp",
+      "thumbnail": "/images/weddings/thumb-wedding-006.webp",
+      "alt": "Groom adjusting cuff links before the wedding ceremony",
+      "featured": false,
+      "order": 6,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Nathan Dumlao",
+        "sourcePage": "https://unsplash.com/photos/1532712938310-34cb3982ef74",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "wedding-007",
+      "category": "Wedding",
+      "src": "/images/weddings/wedding-007.webp",
+      "thumbnail": "/images/weddings/thumb-wedding-007.webp",
+      "alt": "Candid emotional laugh between bride and groom",
+      "featured": true,
+      "order": 7,
+      "width": 1600,
+      "height": 1067,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Samantha Lockey",
+        "sourcePage": "https://unsplash.com/photos/1469371670807-013ccf25f16a",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "wedding-008",
+      "category": "Wedding",
+      "src": "/images/weddings/wedding-008.webp",
+      "thumbnail": "/images/weddings/thumb-wedding-008.webp",
+      "alt": "Outdoor wedding arch decorated with wild floral greens",
+      "featured": false,
+      "order": 8,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Wyatt Ryan",
+        "sourcePage": "https://unsplash.com/photos/1519225421980-715cb0215aed",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "birthday-001",
+      "category": "Birthday",
+      "src": "/images/birthdays/birthday-001.webp",
+      "thumbnail": "/images/birthdays/thumb-birthday-001.webp",
+      "alt": "Colorful celebration balloons softly floating in natural morning light",
+      "featured": true,
+      "order": 9,
+      "width": 1600,
+      "height": 1067,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Adi Goldstein",
+        "sourcePage": "https://unsplash.com/photos/1530103862676-de8c9debad1d",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "birthday-002",
+      "category": "Birthday",
+      "src": "/images/birthdays/birthday-002.webp",
+      "thumbnail": "/images/birthdays/thumb-birthday-002.webp",
+      "alt": "Handcrafted birthday cake topped with flickering birthday sparklers",
+      "featured": false,
+      "order": 10,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Joseph Gonzalez",
+        "sourcePage": "https://unsplash.com/photos/1558636508-e0db3814bd1d",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "birthday-003",
+      "category": "Birthday",
+      "src": "/images/birthdays/birthday-003.webp",
+      "thumbnail": "/images/birthdays/thumb-birthday-003.webp",
+      "alt": "Joyful toast with champagne flutes during an evening party",
+      "featured": false,
+      "order": 11,
+      "width": 1600,
+      "height": 1459,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Brooke Lark",
+        "sourcePage": "https://unsplash.com/photos/1464349095431-e9a21285b5f3",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "birthday-004",
+      "category": "Birthday",
+      "src": "/images/birthdays/birthday-004.webp",
+      "thumbnail": "/images/birthdays/thumb-birthday-004.webp",
+      "alt": "Festive party confetti falling around laughing guests",
+      "featured": true,
+      "order": 12,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Jason Leung",
+        "sourcePage": "https://unsplash.com/photos/1513151233558-d860c5398176",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "birthday-005",
+      "category": "Birthday",
+      "src": "/images/birthdays/birthday-005.webp",
+      "thumbnail": "/images/birthdays/thumb-birthday-005.webp",
+      "alt": "Intimate dinner party surrounded by warm pendant lighting",
+      "featured": false,
+      "order": 13,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Kaftan Media",
+        "sourcePage": "https://unsplash.com/photos/1527529482837-4698179dc6ce",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "birthday-006",
+      "category": "Birthday",
+      "src": "/images/birthdays/birthday-006.webp",
+      "thumbnail": "/images/birthdays/thumb-birthday-006.webp",
+      "alt": "Group of friends celebrating around a rustic wooden table",
+      "featured": false,
+      "order": 14,
+      "width": 1600,
+      "height": 1200,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Samantha Warren",
+        "sourcePage": "https://unsplash.com/photos/1514525253161-7a46d19cd819",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "birthday-007",
+      "category": "Birthday",
+      "src": "/images/birthdays/birthday-007.webp",
+      "thumbnail": "/images/birthdays/thumb-birthday-007.webp",
+      "alt": "Outdoor garden party decorated with fairy lights",
+      "featured": false,
+      "order": 15,
+      "width": 1600,
+      "height": 1067,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Lee Blanchette",
+        "sourcePage": "https://unsplash.com/photos/1492684223066-81342ee5ff30",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "couple-001",
+      "category": "Couple",
+      "src": "/images/anniversaries/couple-001.webp",
+      "thumbnail": "/images/anniversaries/thumb-couple-001.webp",
+      "alt": "Couple embracing warmly during sunset on a grassy hilltop",
+      "featured": true,
+      "order": 16,
+      "width": 1600,
+      "height": 2400,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Everton Vila",
+        "sourcePage": "https://unsplash.com/photos/1516589178581-6cd7833ae3b2",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "couple-002",
+      "category": "Couple",
+      "src": "/images/anniversaries/couple-002.webp",
+      "thumbnail": "/images/anniversaries/thumb-couple-002.webp",
+      "alt": "Candid couple walking hand-in-hand along a peaceful shore",
+      "featured": false,
+      "order": 17,
+      "width": 1600,
+      "height": 2400,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Christopher Campbell",
+        "sourcePage": "https://unsplash.com/photos/1488426862026-3ee34a7d66df",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "couple-003",
+      "category": "Couple",
+      "src": "/images/anniversaries/couple-003.webp",
+      "thumbnail": "/images/anniversaries/thumb-couple-003.webp",
+      "alt": "Intimate profile shadow of couple sharing a smile",
+      "featured": true,
+      "order": 18,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Clarisse Meyer",
+        "sourcePage": "https://unsplash.com/photos/1522673607200-164d1b6ce486",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "couple-004",
+      "category": "Couple",
+      "src": "/images/anniversaries/couple-004.webp",
+      "thumbnail": "/images/anniversaries/thumb-couple-004.webp",
+      "alt": "Young couple sharing coffee together in an earthy minimalist cafe",
+      "featured": false,
+      "order": 19,
+      "width": 1600,
+      "height": 900,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Carly Rae Hobbins",
+        "sourcePage": "https://unsplash.com/photos/1529156069898-49953e39b3ac",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "couple-005",
+      "category": "Couple",
+      "src": "/images/anniversaries/couple-005.webp",
+      "thumbnail": "/images/anniversaries/thumb-couple-005.webp",
+      "alt": "Couple leaning together under a warm sweater outdoors",
+      "featured": false,
+      "order": 20,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Scott Webb",
+        "sourcePage": "https://unsplash.com/photos/1518199266791-5375a83190b7",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "couple-006",
+      "category": "Couple",
+      "src": "/images/anniversaries/couple-006.webp",
+      "thumbnail": "/images/anniversaries/thumb-couple-006.webp",
+      "alt": "Cinematic silhouette of couple standing under starry sky",
+      "featured": false,
+      "order": 21,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Vince Fleming",
+        "sourcePage": "https://unsplash.com/photos/1494774157365-9e04c6720e47",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "portrait-001",
+      "category": "Portrait",
+      "src": "/images/portraits/portrait-001.webp",
+      "thumbnail": "/images/portraits/thumb-portrait-001.webp",
+      "alt": "Natural light portrait of a woman with gentle expression",
+      "featured": true,
+      "order": 22,
+      "width": 1600,
+      "height": 2000,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Averie Woodard",
+        "sourcePage": "https://unsplash.com/photos/1534528741775-53994a69daeb",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "portrait-002",
+      "category": "Portrait",
+      "src": "/images/portraits/portrait-002.webp",
+      "thumbnail": "/images/portraits/thumb-portrait-002.webp",
+      "alt": "Editorial studio portrait of a man looking thoughtfully into camera",
+      "featured": true,
+      "order": 23,
+      "width": 1600,
+      "height": 2400,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Joseph Gonzalez",
+        "sourcePage": "https://unsplash.com/photos/1507003211169-0a1dd7228f2d",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "portrait-003",
+      "category": "Portrait",
+      "src": "/images/portraits/portrait-003.webp",
+      "thumbnail": "/images/portraits/thumb-portrait-003.webp",
+      "alt": "Outdoor portrait with soft golden hour backlighting",
+      "featured": false,
+      "order": 24,
+      "width": 1600,
+      "height": 2399,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Jonas Kakaroto",
+        "sourcePage": "https://unsplash.com/photos/1500648767791-00dcc994a43e",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "portrait-004",
+      "category": "Portrait",
+      "src": "/images/portraits/portrait-004.webp",
+      "thumbnail": "/images/portraits/thumb-portrait-004.webp",
+      "alt": "Close-up portrait featuring striking natural lighting",
+      "featured": false,
+      "order": 25,
+      "width": 1600,
+      "height": 2400,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Michael Dam",
+        "sourcePage": "https://unsplash.com/photos/1494790108377-be9c29b29330",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "portrait-005",
+      "category": "Portrait",
+      "src": "/images/portraits/portrait-005.webp",
+      "thumbnail": "/images/portraits/thumb-portrait-005.webp",
+      "alt": "Monochrome high-contrast artistic portrait",
+      "featured": false,
+      "order": 26,
+      "width": 1600,
+      "height": 2400,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Logan Weaver",
+        "sourcePage": "https://unsplash.com/photos/1539571696357-5a69c17a67c6",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "portrait-006",
+      "category": "Portrait",
+      "src": "/images/portraits/portrait-006.webp",
+      "thumbnail": "/images/portraits/thumb-portrait-006.webp",
+      "alt": "Candid street portrait of a smiling woman in soft jacket",
+      "featured": false,
+      "order": 27,
+      "width": 1600,
+      "height": 2400,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Brooke Cagle",
+        "sourcePage": "https://unsplash.com/photos/1517841905240-472988babdf9",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "family-001",
+      "category": "Family",
+      "src": "/images/family/family-001.webp",
+      "thumbnail": "/images/family/thumb-family-001.webp",
+      "alt": "Parents playing with young child on a sandy beach",
+      "featured": false,
+      "order": 28,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Tyler Nix",
+        "sourcePage": "https://unsplash.com/photos/1511895426328-dc8714191300",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "family-002",
+      "category": "Family",
+      "src": "/images/family/family-002.webp",
+      "thumbnail": "/images/family/thumb-family-002.webp",
+      "alt": "Warm family portrait relaxing together in a sunlit meadow",
+      "featured": true,
+      "order": 29,
+      "width": 1600,
+      "height": 1067,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Seth Doyle",
+        "sourcePage": "https://unsplash.com/photos/1522071820081-009f0129c71c",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "family-003",
+      "category": "Family",
+      "src": "/images/family/family-003.webp",
+      "thumbnail": "/images/family/thumb-family-003.webp",
+      "alt": "Mother holding child with candid smile",
+      "featured": false,
+      "order": 30,
+      "width": 1600,
+      "height": 1232,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Guilherme Rossi",
+        "sourcePage": "https://unsplash.com/photos/1542037104857-ffbb0b9155fb",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "family-004",
+      "category": "Family",
+      "src": "/images/family/family-004.webp",
+      "thumbnail": "/images/family/thumb-family-004.webp",
+      "alt": "Generations sitting together in a cozy indoor setting",
+      "featured": false,
+      "order": 31,
+      "width": 1600,
+      "height": 1107,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Paige Cody",
+        "sourcePage": "https://unsplash.com/photos/1502086223501-7ea6ecd79368",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "family-005",
+      "category": "Family",
+      "src": "/images/family/family-005.webp",
+      "thumbnail": "/images/family/thumb-family-005.webp",
+      "alt": "Lively family picnic on a clear afternoon",
+      "featured": false,
+      "order": 32,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Hian Oliveira",
+        "sourcePage": "https://unsplash.com/photos/1491438590914-bc09fcaaf77a",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "events-001",
+      "category": "Events",
+      "src": "/images/events/events-001.webp",
+      "thumbnail": "/images/events/thumb-events-001.webp",
+      "alt": "Atmospheric event hall illuminated by warm ambient stage lights",
+      "featured": true,
+      "order": 33,
+      "width": 1600,
+      "height": 1068,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Stem List",
+        "sourcePage": "https://unsplash.com/photos/1511578314322-379afb476865",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "events-002",
+      "category": "Events",
+      "src": "/images/events/events-002.webp",
+      "thumbnail": "/images/events/thumb-events-002.webp",
+      "alt": "Keynote speaker addressing an attentive audience",
+      "featured": false,
+      "order": 34,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Headway",
+        "sourcePage": "https://unsplash.com/photos/1475721027785-f74eccf877e2",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "events-003",
+      "category": "Events",
+      "src": "/images/events/events-003.webp",
+      "thumbnail": "/images/events/thumb-events-003.webp",
+      "alt": "Gala dinner tables prepared with elegant glass dinnerware",
+      "featured": false,
+      "order": 35,
+      "width": 1600,
+      "height": 1068,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Alayna McNally",
+        "sourcePage": "https://unsplash.com/photos/1464366400600-7168b8af9bc3",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "events-004",
+      "category": "Events",
+      "src": "/images/events/events-004.webp",
+      "thumbnail": "/images/events/thumb-events-004.webp",
+      "alt": "Live musical performance with dramatic stage backlight",
+      "featured": false,
+      "order": 36,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Katy Belcher",
+        "sourcePage": "https://unsplash.com/photos/1501281668745-f7f57925c3b4",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "events-005",
+      "category": "Events",
+      "src": "/images/events/events-005.webp",
+      "thumbnail": "/images/events/thumb-events-005.webp",
+      "alt": "Interactive creative workshop with participants sharing ideas",
+      "featured": false,
+      "order": 37,
+      "width": 1600,
+      "height": 1066,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Alexandre Pellaes",
+        "sourcePage": "https://unsplash.com/photos/1540575467063-178a50c2df87",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "nature-001",
+      "category": "Nature",
+      "src": "/images/nature/nature-001.webp",
+      "thumbnail": "/images/nature/thumb-nature-001.webp",
+      "alt": "Serene misty mountain lake shrouded in morning fog",
+      "featured": true,
+      "order": 38,
+      "width": 1600,
+      "height": 952,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Vigneslagh",
+        "sourcePage": "https://unsplash.com/photos/1470071459604-3b5ec3a7fe05",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "nature-002",
+      "category": "Nature",
+      "src": "/images/nature/nature-002.webp",
+      "thumbnail": "/images/nature/thumb-nature-002.webp",
+      "alt": "Sunbeams streaming through tall pine trees in a quiet forest",
+      "featured": false,
+      "order": 39,
+      "width": 1600,
+      "height": 1065,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Sebastian Unrau",
+        "sourcePage": "https://unsplash.com/photos/1441974231531-c6227db76b6e",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "nature-003",
+      "category": "Nature",
+      "src": "/images/nature/nature-003.webp",
+      "thumbnail": "/images/nature/thumb-nature-003.webp",
+      "alt": "Rolling green hills under dramatic sunset clouds",
+      "featured": false,
+      "order": 40,
+      "width": 1600,
+      "height": 1068,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Bailey Zindel",
+        "sourcePage": "https://unsplash.com/photos/1506744038136-46273834b3fb",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "nature-004",
+      "category": "Nature",
+      "src": "/images/nature/nature-004.webp",
+      "thumbnail": "/images/nature/thumb-nature-004.webp",
+      "alt": "Calm ocean waves crashing on an untouched sandy shoreline",
+      "featured": false,
+      "order": 41,
+      "width": 1600,
+      "height": 1064,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Sean Oulashin",
+        "sourcePage": "https://unsplash.com/photos/1507525428034-b723cf961d3e",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "nature-005",
+      "category": "Nature",
+      "src": "/images/nature/nature-005.webp",
+      "thumbnail": "/images/nature/thumb-nature-005.webp",
+      "alt": "Snowcapped alpine peaks glowing under twilight starscape",
+      "featured": true,
+      "order": 42,
+      "width": 1600,
+      "height": 1068,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Benjamin Voros",
+        "sourcePage": "https://unsplash.com/photos/1519681393784-d120267933ba",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "bts-001",
+      "category": "Behind the Scenes",
+      "src": "/images/behind-the-scenes/bts-001.webp",
+      "thumbnail": "/images/behind-the-scenes/thumb-bts-001.webp",
+      "alt": "Photographer holding vintage camera framing a shot",
+      "featured": true,
+      "order": 43,
+      "width": 1600,
+      "height": 1067,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Alexander Dummer",
+        "sourcePage": "https://unsplash.com/photos/1554048612-b6a482bc67e5",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "bts-002",
+      "category": "Behind the Scenes",
+      "src": "/images/behind-the-scenes/bts-002.webp",
+      "thumbnail": "/images/behind-the-scenes/thumb-bts-002.webp",
+      "alt": "Camera gear neatly organized on a wooden studio surface",
+      "featured": false,
+      "order": 44,
+      "width": 1600,
+      "height": 2000,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Jakob Owens",
+        "sourcePage": "https://unsplash.com/photos/1516035069371-29a1b244cc32",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "bts-003",
+      "category": "Behind the Scenes",
+      "src": "/images/behind-the-scenes/bts-003.webp",
+      "thumbnail": "/images/behind-the-scenes/thumb-bts-003.webp",
+      "alt": "Photographer adjusting camera lens setting in golden light",
+      "featured": false,
+      "order": 45,
+      "width": 1600,
+      "height": 1200,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "REVOLT",
+        "sourcePage": "https://unsplash.com/photos/1452587925148-ce544e77e70d",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "bts-004",
+      "category": "Behind the Scenes",
+      "src": "/images/behind-the-scenes/bts-004.webp",
+      "thumbnail": "/images/behind-the-scenes/thumb-bts-004.webp",
+      "alt": "Photographer working at darkroom editing desk with printed proofs",
+      "featured": false,
+      "order": 46,
+      "width": 1600,
+      "height": 900,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Levente Juhasz",
+        "sourcePage": "https://unsplash.com/photos/1520390138845-fd2d229dd553",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "studio-001",
+      "category": "Studio",
+      "src": "/images/studio/studio-001.webp",
+      "thumbnail": "/images/studio/thumb-studio-001.webp",
+      "alt": "High-fashion minimalist studio portrait with harsh shadow geometry",
+      "featured": true,
+      "order": 47,
+      "width": 1600,
+      "height": 2395,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Hassan Ouajbir",
+        "sourcePage": "https://unsplash.com/photos/1509631179647-0177331693ae",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "studio-002",
+      "category": "Studio",
+      "src": "/images/studio/studio-002.webp",
+      "thumbnail": "/images/studio/thumb-studio-002.webp",
+      "alt": "Minimalist architectural composition with soft shadow play",
+      "featured": false,
+      "order": 48,
+      "width": 1600,
+      "height": 1067,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Content Pixie",
+        "sourcePage": "https://unsplash.com/photos/1490481651871-ab68de25d43d",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "studio-003",
+      "category": "Studio",
+      "src": "/images/studio/studio-003.webp",
+      "thumbnail": "/images/studio/thumb-studio-003.webp",
+      "alt": "Editorial model pose with vibrant warm studio backdrop",
+      "featured": false,
+      "order": 49,
+      "width": 1600,
+      "height": 2215,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Dom Hill",
+        "sourcePage": "https://unsplash.com/photos/1515886657613-9f3515b0c78f",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    },
+    {
+      "id": "studio-004",
+      "category": "Studio",
+      "src": "/images/studio/studio-004.webp",
+      "thumbnail": "/images/studio/thumb-studio-004.webp",
+      "alt": "Abstract shadow and light play on textured warm concrete wall",
+      "featured": false,
+      "order": 50,
+      "width": 1600,
+      "height": 1038,
+      "source": {
+        "platform": "Unsplash",
+        "photographer": "Eberhard Grossgasteiger",
+        "sourcePage": "https://unsplash.com/photos/1534447677768-be436bb09401",
+        "licenseNote": "Unsplash License - Free to use for commercial and non-commercial purposes"
+      }
+    }
+  ]
+}

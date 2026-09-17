@@ -1,0 +1,12 @@
+{
+  "hero": { "enabled": true, "order": 1 },
+  "intro": { "enabled": true, "order": 2 },
+  "featuredWork": { "enabled": true, "order": 3, "featuredLimit": 8 },
+  "categories": { "enabled": true, "order": 4 },
+  "story": { "enabled": true, "order": 5 },
+  "fullGallery": { "enabled": true, "order": 6 },
+  "photographer": { "enabled": true, "order": 7 },
+  "cta": { "enabled": true, "order": 8 },
+  "contact": { "enabled": true, "order": 9 },
+  "footer": { "enabled": true, "order": 10 }
+}

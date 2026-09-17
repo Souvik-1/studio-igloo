@@ -1,0 +1,12 @@
+{
+  "copyrightText": "© 2026 Studio Igloo. Photography by Sankhadeep. All rights reserved.",
+  "backToTopText": "Back to top",
+  "links": [
+    { "label": "Work", "href": "#work" },
+    { "label": "Categories", "href": "#categories" },
+    { "label": "Story", "href": "#story" },
+    { "label": "Gallery", "href": "#gallery" },
+    { "label": "About", "href": "#about" },
+    { "label": "Contact", "href": "#contact" }
+  ]
+}

@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Cloudflare/Wrangler local secrets
+.dev.vars
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

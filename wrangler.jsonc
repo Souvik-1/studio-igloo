@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "studio-igloo",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2026-02-01",
+  "kv_namespaces": [
+    {
+      "binding": "CONTACTS_KV",
+      "id": "PLACEHOLDER_CONTACTS_KV_NAMESPACE_ID"
+    }
+  ]
+}

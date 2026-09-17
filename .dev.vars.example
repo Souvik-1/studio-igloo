@@ -1,0 +1,5 @@
+# Wrangler Local Development Secrets (.dev.vars)
+RESEND_API_KEY=re_123456789_abcdefghijklmnopqrstuvwxyz
+CONTACT_TO_EMAIL=hello@studioigloo.com
+CONTACT_FROM_EMAIL=Studio Igloo <onboarding@resend.dev>
+TURNSTILE_SECRET_KEY=0x4AAAAAAAx_1234567890
